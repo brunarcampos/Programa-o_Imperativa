@@ -1,0 +1,1 @@
+// Escreva um programa que leia um número inteiro e depois o imprima. //

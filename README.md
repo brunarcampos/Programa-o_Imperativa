@@ -1,2 +1,3 @@
 # Programa-o_Imperativa
-Exercícios passados em aula
+
+Realizando os exercícios do capitulo 2 ao 5.
